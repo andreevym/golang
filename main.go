@@ -17,7 +17,27 @@ const (
 
 func main() {
 	fmt.Println(main_title)
-	tryMap()
+	tryArithmetic()
+}
+
+func tryArithmetic() {
+	addOperator := 1 + 2
+	fmt.Println(addOperator)
+
+	subtractOperator := 1 - 2
+	fmt.Println(subtractOperator)
+
+	remainderOperator := 1 % 2
+	fmt.Println(remainderOperator)
+
+	inc := 1
+	inc++
+	fmt.Println(inc)
+	inc++
+	fmt.Println(inc)
+	inc++
+	fmt.Println(inc)
+
 }
 
 func tryMap() {

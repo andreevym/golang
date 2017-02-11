@@ -1,10 +1,11 @@
-# golang
-sample with golang
+# Get Started with Gopher
 
 ![gopher](https://github.com/andreevym/golang/blob/master/gopher.jpg?raw=true)
 
 ## How to run
-go run main.go
+to compile and run without storing at the disk
+
+	go run main.go
 
 ## What kind of program do you use to work with 'Go'?
 

@@ -4,7 +4,10 @@
 
 ## Thanks
 Thanks for course "Go: Getting Started" by Mike Van Sickle.
-Please look him course, that's really helpful https://app.pluralsight.com/library/courses/go-getting-started/table-of-contents
+
+Please look him course, that's really helpful
+
+https://app.pluralsight.com/library/courses/go-getting-started/table-of-contents
 
 ## How to run
 to compile and run without storing at the disk

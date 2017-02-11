@@ -29,6 +29,14 @@ const (
 	main_title  = "let's Go"
 )
 
+iota - auto increment
+
+const (
+	first = 1 * iota
+	second
+	third
+)
+
 # Array
 can by with fixed size or scalable
 

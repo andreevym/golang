@@ -4,6 +4,24 @@ sample with golang
 ## How to run
 go run main.go
 
+## What kind of program do you use to work with 'Go'?
+
+	I use Atopm (https://atom.io/)
+
+And install the packeges:
+
+	https://atom.io/packages/go-plus
+	go get -u golang.org/x/tools/cmd/goimports
+	go get -u golang.org/x/tools/cmd/gorename
+	go get -u github.com/sqs/goreturns
+	go get -u github.com/nsf/gocode
+	go get -u github.com/alecthomas/gometalinter
+	go get -u github.com/zmb3/gogetdoc
+	go get -u github.com/rogpeppe/godef
+	go get -u golang.org/x/tools/cmd/guru
+
+terminal
+
 ## Constant
 pay attention on and don't use curly braces
 

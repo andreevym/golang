@@ -58,3 +58,17 @@ can by with fixed size or scalable
 	thirdSlice = append(thirdSlice, 2)
 	thirdSlice = append(thirdSlice, 3)
 	fmt.Print(thirdSlice)
+
+## Map
+	myMap := make(map[int]string, 2)
+
+	fmt.Print(myMap)
+
+	myMap[13] = "a"
+	myMap[26] = "b"
+	myMap[-2] = "c"
+
+	fmt.Println(myMap)
+	fmt.Println(myMap[-2])
+	fmt.Println(myMap[0])
+	fmt.Println(myMap[13])

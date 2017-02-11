@@ -1,4 +1,4 @@
-## golang
+# golang
 sample with golang
 
 ## How to run
@@ -22,14 +22,14 @@ And install the packeges:
 
 terminal
 
-## Constant
+# Constant
 pay attention on and don't use curly braces
 
 const (
 	main_title  = "let's Go"
 )
 
-## Array
+# Array
 can by with fixed size or scalable
 
 ## How to create "Simple array with fixed size" ?
@@ -59,7 +59,7 @@ can by with fixed size or scalable
 	thirdSlice = append(thirdSlice, 3)
 	fmt.Print(thirdSlice)
 
-## Map
+# Map
 	myMap := make(map[int]string, 2)
 
 	fmt.Print(myMap)

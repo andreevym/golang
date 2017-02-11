@@ -1,6 +1,8 @@
 # golang
 sample with golang
 
+![gopher](https://github.com/andreevym/golang/blob/master/gopher.jpg?raw=true)
+
 ## How to run
 go run main.go
 

@@ -51,8 +51,10 @@ const (
 can by with fixed size or scalable
 
 ## How to create "Simple array with fixed size" ?
+### First Array	
 	array := [...]int32{1, 2, 4, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096}
-
+### Second Array
+	var array [12]int32
 ## How to create "Slice - scalable array" ?
 
 ### First slice
